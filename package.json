@@ -1,0 +1,17 @@
+{
+  "name": "amida-prep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "owen-d <ow.diehl@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha parse/spec.js"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
