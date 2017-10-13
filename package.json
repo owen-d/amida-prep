@@ -12,6 +12,10 @@
     "mocha": "^4.0.1"
   },
   "dependencies": {
-    "lodash": "^4.17.4"
+    "bluebird": "^3.5.1",
+    "co-body": "^5.1.1",
+    "koa": "^2.3.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1"
   }
 }
